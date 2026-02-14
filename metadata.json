@@ -1,0 +1,7 @@
+{
+  "name": "OT Pathway: Neuro-Inclusive Learning",
+  "description": "A comprehensive Occupational Therapy bachelor's curriculum guide tailored for learners with ADHD, EFD, OCD, anxiety, and depression. Features task chunking, focus tools, and AI-powered conceptual simplification.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
